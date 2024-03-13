@@ -8,7 +8,7 @@ We use Python to do **visualization (animation) and computation** of our practic
 
 ### Python simulation & Practical circuit
 
-<img src="simulation.png" width="350"/>
+<img src="simulation.png" width="450"/>
 <img src="circuit.png" width="350"/>
 
 
